@@ -1,0 +1,3 @@
+*.tsx linguist-language=TypeScript
+*.css linguist-documentation=false
+*.html linguist-documentation=false
