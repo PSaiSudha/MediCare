@@ -1,3 +1,10 @@
-*.tsx linguist-language=TypeScript
-*.css linguist-documentation=false
-*.html linguist-documentation=false
+# HTML and CSS files count penchi TypeScript percentage thagginchaniki
+*.tsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.css linguist-detectable=true
+*.html linguist-detectable=true
+*.js linguist-detectable=true
+
+# Large compiled files ignore cheyydaniki
+dist/* linguist-vendored
+node_modules/* linguist-vendored
