@@ -2,7 +2,7 @@
 
 ### 💊 Smart Healthcare Management & Doctor Appointment Booking Platform
 
-<p align="center">
+<p align="left">
   <b>🌐 Live Demo:</b>
   <a href="https://hospital-management-system-u4tu.onrender.com/">Visit MediCare</a>
 </p>
